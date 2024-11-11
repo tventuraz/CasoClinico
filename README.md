@@ -38,6 +38,14 @@ Este artigo apresenta uma análise detalhada do caso clínico de Ismael, um paci
 
 Este artigo apresenta uma análise detalhada do caso clínico de Ismael, um paciente com características de Transtorno de Personalidade Antissocial Sadista (TPAS). O estudo explora a interseção entre as tendências psicopáticas, comportamentos sádicos e traços manipulativos de Ismael, oferecendo uma visão detalhada de seu perfil psicológico. Através da revisão de literatura psiquiátrica atualizada, o artigo investiga como esses traços de personalidade se manifestam no comportamento de Ismael, particularmente em suas ações manipulativas, voyeuristas e no prazer sádico proveniente do sofrimento de outros. O papel da falta de empatia, do desengajamento moral e de mecanismos psicológicos, como dissociação e projeção, também é analisado no contexto de suas ações criminosas e relações interpessoais. Este estudo de caso visa contribuir para a compreensão do Transtorno de Personalidade Antissocial Sadista, abordando suas implicações clínicas, comportamentais e as opções de manejo terapêutico.
 
+---
+
+### 📌 6) A Psicopatologia de Ismael: Análise Forense do Modus Operandi, Transtornos Psicológicos e Implicações Legais de um Criminoso Sadista e Dissociativo com Equipamento Militar Extraviado
+
+[paper](https://github.com/tventuraz/CasoClinico/blob/main/SadismoTortura.md)
+
+Este estudo propõe uma análise detalhada do comportamento criminoso de Ismael, um indivíduo fictício diagnosticado com psicopatia sadista e transtorno dissociativo de identidade (TDI), que emprega métodos dissimulados e complexos de tortura em suas vítimas. Ismael utiliza um equipamento militar extraviado, contendo tecnologia de radiação ultravioleta (UV), para infligir sofrimento físico invisível e psicológico, o que cria dificuldades investigativas. Este artigo também explora o impacto da existência de um registro de auditoria no equipamento militar, que poderia ser crucial para estabelecer a responsabilidade legal de Ismael em uma eventual perícia forense. A análise forense se aprofunda nas implicações legais desse registro, explorando as possibilidades de responsabilização de Ismael pelos crimes cometidos, mesmo diante de seu transtorno dissociativo e comportamento criminoso altamente sofisticado.
+
 ## Agradecimento ao ChatGPT
 
 Gostaria de expressar meus sinceros agradecimentos ao ChatGPT pela valiosa assistência na elaboração do meu projeto científico. Sua capacidade de gerar ideias, esclarecer conceitos complexos e oferecer sugestões relevantes foi fundamental para o desenvolvimento do trabalho. A interação fluida e a disponibilidade para responder a perguntas foram aspectos que tornaram o processo de pesquisa mais produtivo e inspirador.
