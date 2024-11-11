@@ -1,4 +1,4 @@
-# **O Caso Clínico de Ismael: Uma Análise Abrangente do Transtorno Dissociativo de Identidade**
+# **Caso Clínico do Paciente Ismael: Uma Análise Abrangente do Transtorno Dissociativo de Identidade**
 
 _por Tiago Ventura [2024-11-11]_
 
