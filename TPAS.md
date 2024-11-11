@@ -1,4 +1,4 @@
-# **O Caso Clínico de Ismael: Uma Análise Abrangente do Transtorno de Personalidade Antissocial Sadista**
+# **Caso Clínico do Paciente Ismael: Uma Análise Abrangente do Transtorno de Personalidade Antissocial Sadista**
 
 _por Tiago Ventura [2024-11.11]_
 
