@@ -1,4 +1,4 @@
-# **Análise do Quadro Clínico do Paciente Ismael: Psicopatia Sadista, Parafilias e Mecanismos de Defesa**
+# **Análise do Caso Clínico do Paciente Ismael: Psicopatia Sadista, Parafilias e Mecanismos de Defesa**
 
 _por Tiago Ventura [2024-11-11]_
 
