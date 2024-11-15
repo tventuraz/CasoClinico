@@ -58,9 +58,7 @@ As vítimas de Ismael, submetidas a essa tortura invisível e constante, desenvo
 
 #### 5.1 **Responsabilidade Criminal e Implicações Legais**
 
-O uso de um **equipamento militar extraviado**, aliado ao **registro de auditoria**, torna a responsabilização de Ismael mais clara, apesar de seus transtornos psicológicos. A
-
- defesa baseada no **Transtorno Dissociativo de Identidade** poderia argumentar que ele não tem controle consciente sobre suas ações quando assume a identidade de "Francisco". No entanto, o **registro de auditoria** fornece uma evidência objetiva de que Ismael estava **ciente e no controle** de suas ações ao operar o dispositivo, tornando difícil argumentar que ele não tinha plena **responsabilidade** pelos seus atos.
+O uso de um **equipamento militar extraviado**, aliado ao **registro de auditoria**, torna a responsabilização de Ismael mais clara, apesar de seus transtornos psicológicos. A defesa baseada no **Transtorno Dissociativo de Identidade** poderia argumentar que ele não tem controle consciente sobre suas ações quando assume a identidade de "Francisco". No entanto, o **registro de auditoria** fornece uma evidência objetiva de que Ismael estava **ciente e no controle** de suas ações ao operar o dispositivo, tornando difícil argumentar que ele não tinha plena **responsabilidade** pelos seus atos.
 
 A evidência do uso do equipamento militar poderia **comprovar a ação deliberada** de Ismael, contrariando a alegação de dissociação completa. Além disso, a **gravidade do crime** — envolvimento com **equipamento militar**, **dano psicológico e físico** às vítimas, e o uso de **tecnologia de vigilância** — pode resultar em penas severas, mesmo considerando seu diagnóstico de TDI.
 
